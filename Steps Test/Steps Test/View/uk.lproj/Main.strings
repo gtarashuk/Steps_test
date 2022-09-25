@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "Upper bound"; ObjectID = "6Oy-9n-Ht9"; */
+"6Oy-9n-Ht9.placeholder" = "Верхня межа";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "SYA-RP-YEu"; */
+"SYA-RP-YEu.text" = "Comments";
+
+/* Class = "UITextField"; placeholder = "Lower bound"; ObjectID = "Vwk-xF-pfc"; */
+"Vwk-xF-pfc.placeholder" = "Нижня межа";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "qUk-qy-PTA"; */
+"qUk-qy-PTA.normalTitle" = "Продовжити";

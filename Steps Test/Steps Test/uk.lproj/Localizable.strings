@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Steps Test
+
+  Created by Grygorii Tarashchuk on 25.09.2022.
+  
+*/
+
+"error_popup_title" = "Трясця!";
+"error_no_internet" = "Перевірте інтернет з'єднання";
+"error_default" = "Щось пішло не так";
+"error_bounds" = "Верхня межа має бути вище ніж нижня межа";
+"Loading" = "Завантаження";

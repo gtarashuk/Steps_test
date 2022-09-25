@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Steps Test
+
+  Created by Grygorii Tarashchuk on 25.09.2022.
+  
+*/
+
+
+"error_popup_title" = "Error";
+"error_no_internet" = "Check internet connection";
+"error_default" = "Something went wrong";
+"error_bounds" = "Upper bound must be greater then lower bound";
+"Loading" = "Loading";
